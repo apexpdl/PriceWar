@@ -1,0 +1,8 @@
+# PriceWar — Reinforcement Learning Market Simulator
+# Core simulation (required):
+numpy>=1.23
+pandas>=1.5
+
+# Dashboard (required to run `streamlit run dashboard.py`):
+streamlit>=1.30
+plotly>=5.15
