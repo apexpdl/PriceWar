@@ -93,5 +93,4 @@ gradually lock in a policy — and because they keep re-encountering one another
 shaped by their rivals' behaviour, which is where the emergent competition or coordination
 comes from.
 
-See **[PROJECT_DOCUMENTATION.md](PROJECT_DOCUMENTATION.md)** for the full treatment and
-**[WHY.md](WHY.md)** for the reasoning behind every design choice.
+
